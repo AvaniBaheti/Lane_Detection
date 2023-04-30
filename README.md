@@ -1,5 +1,4 @@
-# Lane_Detection
-## ML Project using Python
+# Lane_Detection (ML project)
 ### Installation:
 1. Install code as zip.
 2. Run py file and output image box will appear.
